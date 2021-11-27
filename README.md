@@ -4,4 +4,4 @@ Crear el archivo .ENV a partir del env.example y colocar el user y pass para acc
 
 {USUARIO}=coderhouse {PASSWORD}=tutorcoder
 
-URL HEROKU=
+URL HEROKU=https://coderhouse-backend.herokuapp.com
